@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\2526-E-D-DATOS-LADY-RODRIGUEZ-\SEMANA 5 -\EJERCICIO 2\bin\Debug\net10.0\EJERCICIO 2.exe
+C:\Users\User\Documents\GitHub\2526-E-D-DATOS-LADY-RODRIGUEZ-\SEMANA 5 -\EJERCICIO 2\bin\Debug\net10.0\EJERCICIO 2.deps.json
+C:\Users\User\Documents\GitHub\2526-E-D-DATOS-LADY-RODRIGUEZ-\SEMANA 5 -\EJERCICIO 2\bin\Debug\net10.0\EJERCICIO 2.runtimeconfig.json
+C:\Users\User\Documents\GitHub\2526-E-D-DATOS-LADY-RODRIGUEZ-\SEMANA 5 -\EJERCICIO 2\bin\Debug\net10.0\EJERCICIO 2.dll
+C:\Users\User\Documents\GitHub\2526-E-D-DATOS-LADY-RODRIGUEZ-\SEMANA 5 -\EJERCICIO 2\bin\Debug\net10.0\EJERCICIO 2.pdb
+C:\Users\User\Documents\GitHub\2526-E-D-DATOS-LADY-RODRIGUEZ-\SEMANA 5 -\EJERCICIO 2\obj\Debug\net10.0\EJERCICIO 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\2526-E-D-DATOS-LADY-RODRIGUEZ-\SEMANA 5 -\EJERCICIO 2\obj\Debug\net10.0\EJERCICIO 2.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\2526-E-D-DATOS-LADY-RODRIGUEZ-\SEMANA 5 -\EJERCICIO 2\obj\Debug\net10.0\EJERCICIO 2.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\2526-E-D-DATOS-LADY-RODRIGUEZ-\SEMANA 5 -\EJERCICIO 2\obj\Debug\net10.0\EJERCICIO 2.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\2526-E-D-DATOS-LADY-RODRIGUEZ-\SEMANA 5 -\EJERCICIO 2\obj\Debug\net10.0\EJERCICIO 2.sourcelink.json
+C:\Users\User\Documents\GitHub\2526-E-D-DATOS-LADY-RODRIGUEZ-\SEMANA 5 -\EJERCICIO 2\obj\Debug\net10.0\EJERCICIO 2.dll
+C:\Users\User\Documents\GitHub\2526-E-D-DATOS-LADY-RODRIGUEZ-\SEMANA 5 -\EJERCICIO 2\obj\Debug\net10.0\refint\EJERCICIO 2.dll
+C:\Users\User\Documents\GitHub\2526-E-D-DATOS-LADY-RODRIGUEZ-\SEMANA 5 -\EJERCICIO 2\obj\Debug\net10.0\EJERCICIO 2.pdb
+C:\Users\User\Documents\GitHub\2526-E-D-DATOS-LADY-RODRIGUEZ-\SEMANA 5 -\EJERCICIO 2\obj\Debug\net10.0\EJERCICIO 2.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\2526-E-D-DATOS-LADY-RODRIGUEZ-\SEMANA 5 -\EJERCICIO 2\obj\Debug\net10.0\ref\EJERCICIO 2.dll
