@@ -5,6 +5,6 @@ public class Estudiante
     public string Apellidos;
     public string Direccion;
 
-    // Arreglo que almacena tres números de teléfono
     public string[] Telefonos = new string[3];
 }
+
