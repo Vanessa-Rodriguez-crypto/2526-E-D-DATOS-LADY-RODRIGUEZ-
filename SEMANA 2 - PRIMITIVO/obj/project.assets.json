@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\2526-E-D-DATOS-LADY-RODRIGUEZ-\\2526-E-D-DATOS-LADY-RODRIGUEZ-.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\2526-E-D-DATOS-LADY-RODRIGUEZ-\\SEMANA 2 - PRIMITIVO\\2526-E-D-DATOS-LADY-RODRIGUEZ-.csproj",
       "projectName": "2526-E-D-DATOS-LADY-RODRIGUEZ-",
-      "projectPath": "C:\\Users\\User\\Documents\\GitHub\\2526-E-D-DATOS-LADY-RODRIGUEZ-\\2526-E-D-DATOS-LADY-RODRIGUEZ-.csproj",
+      "projectPath": "C:\\Users\\User\\Documents\\GitHub\\2526-E-D-DATOS-LADY-RODRIGUEZ-\\SEMANA 2 - PRIMITIVO\\2526-E-D-DATOS-LADY-RODRIGUEZ-.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Documents\\GitHub\\2526-E-D-DATOS-LADY-RODRIGUEZ-\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\GitHub\\2526-E-D-DATOS-LADY-RODRIGUEZ-\\SEMANA 2 - PRIMITIVO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
